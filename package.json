@@ -23,7 +23,6 @@
     "nock": "^9.6.1",
     "node-fetch": "^2.2.0",
     "request": "^2.88.0",
-    "request-promise-native": "^1.0.5",
     "serverless-domain-manager": "^2.3.4",
     "supertest": "^3.0.0",
     "webpack": "^4.17.2",

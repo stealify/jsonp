@@ -15,7 +15,6 @@ let serveLandingPage = function(req, res) {
   res.render('index.ejs', {
     layout: false,
     host: req.headers.host,
-    nodeVersion: process.version,
     snippets: snippets
   });
 };
